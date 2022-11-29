@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,200;6..72,300;6..72,600;6..72,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;600;800&display=swap');
+
+$font-newsreader:'Newsreader', serif;
+$font-manrope:'Manrope', sans-serif;
+
+$color-dark:#1A1E2A;
+$color-light:#F9F8F7;
+$color-white:#FFFFFF;
+$color-border:#E8E8E9;
+$color-brand-1:#F15152;
+$color-brand-2:#4166D5;
+$color-primary-3:#CEF2F6;
+
+* {
+  font-family: $font-manrope;
+}
